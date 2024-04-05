@@ -1,0 +1,20 @@
+{
+  "name": "airdrop_masterclass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "3.0.0",
+    "@openzeppelin/contracts": "5.0.0",
+    "@uniswap/v2-periphery": "1.1.0-beta.0",
+    "dotenv": "16.3.1",
+    "hardhat": "2.18.2",
+    "node-schedule": "2.1.1"
+  }
+}
